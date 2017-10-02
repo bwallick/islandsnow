@@ -17,3 +17,9 @@
 #categorymenuitem a {
   color: #242424;
 }
+
+.footer-background {
+  background-color: #292929;
+  color: white;
+  padding: 20px;
+}
