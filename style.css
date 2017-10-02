@@ -3,3 +3,17 @@
   box-shadow: none;
   border: none;
 }
+
+#categorymenu {
+  box-shadow: none;
+  border: none;
+}
+
+#categorymenu i {
+  box-shadow: none;
+  border: none;
+}
+
+#categorymenuitem a {
+  color: #242424;
+}
